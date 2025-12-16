@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:hwrecipes/model/recipe.dart';
 import 'package:hwrecipes/recipe_detail.dart';
 
-const primaryColor = Color.fromARGB(255, 255, 213, 0);
+const primaryColor = Color.fromARGB(255, 255, 119, 0);
 
 void main() {
   runApp(const RecipeApp());
